@@ -28,7 +28,7 @@ export default function Slider() {
       <SwiperSlide className='flex justify-center pt-3'>
         <div >
             <div className='relative mx-auto lg:mx-auto lg:mt-20 '>
-            <iframe src="https://onedrive.live.com/embed?cid=BBF5E1DD97802BDD&amp;resid=BBF5E1DD97802BDD%21410&amp;authkey=ABmssU5Yg5sSzl0&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="375px" height="250px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+            <iframe src="https://onedrive.live.com/embed?cid=BBF5E1DD97802BDD&amp;resid=BBF5E1DD97802BDD%21410&amp;authkey=ABmssU5Yg5sSzl0&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="375px" height="250px" frameborder="0">This is an embedded <a target="_blank" rel="noreferrer" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" rel="noreferrer"  href="https://office.com/webapps">Office</a>.</iframe>
             </div>
             <div>
                 
