@@ -14,7 +14,7 @@ export default function Slider() {
     SwiperCore.use([Autoplay]);
 
   return (
-    <div className='mx-7 md:mx-20 lg:mx-30'>
+    <div className='mx-5 md:mx-20 lg:mx-30'>
     <div className=' '>
     <Swiper
       modules={[Scrollbar]}
