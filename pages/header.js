@@ -7,6 +7,7 @@ function Header(){
                 <title>Mossiak</title>
                 <meta name="description" content="mossiak powerpoint creating content lead desiginer Elvina Ighoraye, we vreate powerpoint and other form of design to please your asthetic" />
                  <meta name="keywords" content="mosiak design, mosiak designer, Elvina Ighoraye, powerpoint, powerpoint presentation, power point presentation designer, mossiakdesings, mossiak design" />
+                 <meta name="keywords" content="Elvina Ighorayeb mossiak design, Elvina designs, Elvina mossiak designs, Elvina Ighorayeb mossiak, Elvina powerpoint, Elvina powerpoint presentation, Elvina powerpoint power point presentation designer, mossiakdesings, mossiak design" />
                   <meta name="author" content="Mossiak Designs" />
                   <meta name="author" content="Mossiakdesigns" />
                   <meta name="author" content="Elvina Ighoraye" />
