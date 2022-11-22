@@ -11,7 +11,7 @@ import 'swiper/css/scrollbar';
 function Slide(props){
   return(
     
-    <div className='shadow-lg text-center rounded-xl lg:flex lg:justify-evenly lg:bg-slate-300 md:bg-slate-300'>
+    <div className='shadow-lg text-center rounded-xl lg:flex lg:justify-evenly lg:bg-slate-600 md:bg-slate-600'>
           <div className='flex justify-center pt-10 pb-5 lg:px-5'>
           {props.presentation}
           </div>
