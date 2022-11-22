@@ -16,7 +16,7 @@ function Slide(props){
           {props.presentation}
           </div>
           <div className='px-10 lg:mt-10 lg:mx-30 lg:justify-center'>
-              <h1 className='text-xl md:text-2xl lg:text-3xl lg:text-slate-100' >{props.Topic}</h1>
+              <h1 className='text-xl md:text-2xl lg:text-3xl text-gray-900 lg:text-slate-100' >{props.Topic}</h1>
               <p  className='text-md py-5 leading-8 text-gray-800 md:text-l lg:text-xl max-w-xl mx-auto lg:text-slate-100 dark:text-slate-100'>
                 {props.detail}
               </p>
