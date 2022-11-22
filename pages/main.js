@@ -12,7 +12,7 @@ export default function Main() {
         <section className='min-h-screen'>
           <NavBar/>
           <div className='mx-5 md:mx-20 lg:mx-30'>
-            <div className='shadow-lg text-center rounded-xl p-10 my-10 lg:flex lg:justify-evenly bg-slate-300 '>
+            <div className='shadow-lg text-center rounded-xl p-10 my-10 lg:flex lg:justify-evenly bg-slate-600 '>
                <div className='relative mx-auto w-40 h-40 lg:mx-auto lg:mt-20 '>
                    <Image className='lg:pr-1 lg:w-250 lg:h-250'  src="/mos3.png" alt="brand image" width={150} height={150}/>
                </div>
