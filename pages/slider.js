@@ -11,13 +11,14 @@ import 'swiper/css/scrollbar';
 function Slide(props){
   return(
     
-    <div className='shadow-lg text-center rounded-xl lg:flex lg:justify-evenly lg:bg-slate-600 md:bg-slate-600'>
+    <div className='shadow-lg text-center rounded-xl lg:flex lg:justify-evenly bg-slate-400 md
+    :bg-slate-400'>
           <div className='flex justify-center pt-10 pb-5 lg:px-5'>
           {props.presentation}
           </div>
           <div className='px-10 lg:mt-10 lg:mx-30 lg:justify-center'>
-              <h1 className='text-xl md:text-2xl lg:text-3xl' >{props.Topic}</h1>
-              <p  className='text-md py-5 leading-8 text-gray-800 md:text-l lg:text-xl max-w-xl mx-auto dark:text-slate-100'>
+              <h1 className='text-xl md:text-2xl lg:text-3xl text-slate-100' >{props.Topic}</h1>
+              <p  className='text-md py-5 leading-8 text-gray-800 md:text-l lg:text-xl max-w-xl mx-auto text-slate-100 dark:text-slate-100'>
                 {props.detail}
               </p>
           </div>

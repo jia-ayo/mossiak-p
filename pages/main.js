@@ -12,14 +12,14 @@ export default function Main() {
         <section className='min-h-screen'>
           <NavBar/>
           <div className='mx-5 md:mx-20 lg:mx-30'>
-            <div className='shadow-lg text-center rounded-xl p-10 my-10 lg:flex lg:justify-evenly bg-slate-600 '>
+            <div className='shadow-lg text-center rounded-xl p-10 my-10 lg:flex lg:justify-evenly bg-slate-400 '>
                <div className='relative mx-auto w-40 h-40 lg:mx-auto lg:mt-20 '>
                    <Image className='lg:pr-1 lg:w-250 lg:h-250'  src="/mos3.png" alt="brand image" width={150} height={150}/>
                </div>
               <div className='lg:mx-30'>
-                <Image className='relative mx-auto my-2 lg:w-250 lg:h-100'  src="/mos6.png" alt="brandName" width={150} height={30}/>
+                <Image className='relative mx-auto my-2 lg:w-300 lg:h-100'  src="/taa.png" alt="brandName" width={200} height={50}/>
                  
-                <p className='text-md py-5 leading-8 text-gray-800 md:text-xl lg:text-2xl max-w-xl mx-auto dark:text-slate-100'>Mossiak Designs is a company that empowers our customers through 
+                <p className='text-md py-5 leading-8 text-slate-100 md:text-xl lg:text-2xl max-w-xl mx-auto dark:text-slate-100'>Mossiak Designs is a company that empowers our customers through 
                   the influence of creative designs. We pride ourselves on working with 
                   different creatives who are talented in their own pursuits to provide the 
                   best design solutions.
