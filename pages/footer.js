@@ -3,7 +3,7 @@ import styles from '../styles/Home.module.css'
 
 function Footer(){
     return (
-        <div>
+        <div className='bg-gray-400'>
            <footer className={styles.footer}>
               <a
                 href="https://github.com/jia-ayo/mossiak-p"
