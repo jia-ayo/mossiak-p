@@ -36,7 +36,7 @@ export default function Main() {
         </section>
         <section className='mx-7 lg:mx-40'>
         <div className="text-center mt-2">
-          <h3 className="text-3xl py-1 dark:text-slate-100">The Vision & Mission</h3>
+          <h3 className="text-3xl py-1 font-medium dark:text-slate-100">The Vision & Mission</h3>
           
           <p className="text-md py-5 leading-8 text-gray-800 dark:text-slate-100 md:text-l lg:text-xl">
             To provide design solutions and change the branding industry with the 
